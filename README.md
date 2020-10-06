@@ -147,14 +147,6 @@ The expected output should be:
 > ```
 
 
-# Submission
-
-1. Complete the program with actions in `Program.g4`.
-2. You are encouraged to use any helper Java classes to make the grammar as
-   clean and maintainable as possible.  You must include all necessary .java
-files.
-3. Your project will be autograded, so make sure that your project passes all
-   the unit tests when running `gradle test`.
 
 A Makefile is provided to make the development and testing easier.
 
